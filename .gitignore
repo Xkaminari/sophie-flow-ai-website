@@ -1,0 +1,12 @@
+# Claude Code settings (may contain tokens/secrets)
+.claude/
+
+# Screenshots (temporary, not source code)
+temporary screenshots/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
