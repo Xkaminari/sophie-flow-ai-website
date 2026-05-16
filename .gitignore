@@ -1,6 +1,11 @@
 # Claude Code settings (may contain tokens/secrets)
 .claude/
 
+# Private business/project files
+CLAUDE.md
+MY_BUISNESS.md
+brand_assets/BRAND_GUIDELINES.md
+
 # Screenshots (temporary, not source code)
 temporary screenshots/
 
